@@ -1,4 +1,7 @@
 <?php
+
+
+//Test comment for test commit
 session_start(); 
 if(!(isset($_SESSION['loggedInSR']))){
 	$server = $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];

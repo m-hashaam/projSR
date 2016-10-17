@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 //Test commit for 2nd commit at 8 pm by ahsan
+=======
+// Test from ahsan_dev
+>>>>>>> ahsan_dev
 //Test comment for test commit
 session_start(); 
 if(!(isset($_SESSION['loggedInSR']))){

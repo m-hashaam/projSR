@@ -1,0 +1,82 @@
+/* here you can put your media queries to customize and override the theme */
+
+@media screen and (max-width: 992px) {
+
+    /*For making modal box view in mobile view*/
+
+    /*.modal.fade.in {*/
+        /*top: 15%;*/
+        /*left: 7%;*/
+    /*}*/
+
+    /*For making header position relative in mobile view*/
+    .page-header .page-header-top.fixed {
+        position: relative;
+    }
+
+    /*For making notification view fixed in mobile view*/
+    .page-header .page-header-top .top-menu {
+        margin: 0px;
+        marign-right : 150px;
+    }
+
+    /*For making logo background purple*/
+    #logo{
+        background-color: #564572;
+    }
+
+    /*For making notifications icons purple*/
+    .page-header-top > .container{
+        background-color: #564572;
+    }
+
+    /*For making notification texts black*/
+    .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav > li > a {
+        color: #000000;
+    }
+
+    /*For making notifications fixed to the mobile view*/
+    /*.page-header .page-header-top .top-menu .navbar-nav {*/
+        /*margin-right: 70px;*/
+        /*margin-top: 5px;*/
+    /*}*/
+
+    /*For making notification texts black*/
+    .page-header .page-header-top .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {
+        color:#000000;
+    }
+
+    /*For making notification texts black*/
+    .page-header .page-header-top .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:hover {
+        color:#000000;
+    }
+
+    /*For making notification texts black*/
+    .page-header .page-header-top .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle {
+        background: none;color: #000000;
+    }
+
+    /*For making notifications icons purple*/
+    .page-header .page-header-top .top-menu .navbar-nav > li.dropdown > .dropdown-toggle > i {
+        color: #564572 !important;
+    }
+
+    /*For making notifications texts black*/
+    .page-header .page-header-top .top-menu .navbar-nav > li.dropdown > .dropdown-toggle .badge.badge-default {
+        color: #000000;
+    }
+
+    .zindex{
+        z-index:99999999 !important;
+    }
+    /*------------------Product Reviews Page Mobile CSS--------------*/
+
+        #map {
+            margin-top : 0px;
+        }
+
+        #userName {
+            margin-left: 56px;
+        }
+    /*-------------------------------------------------------------*/
+}

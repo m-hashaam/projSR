@@ -1,0 +1,25 @@
+.font-purple-01 {
+    color: #8775a7;
+    font-weight: inherit;
+}
+
+.font-blue-01 {
+    color: #4699CA;
+    font-weight: inherit;
+}
+
+.heading-size-between-1-2 {
+    font-size: 30px;
+}
+
+.heading-size-between-2-3 {
+    font-size: 25px;
+}
+
+.heading-size-between-3-4 {
+    font-size: 20px;
+}
+
+.heading-size-between-4-5 {
+    font-size: 15px;
+}

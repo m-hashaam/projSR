@@ -1,0 +1,8 @@
+[03-Oct-2016 08:18:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:19:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:23:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:23:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:23:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/dealsinfo.php on line 91
+[03-Oct-2016 08:26:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:26:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58
+[03-Oct-2016 08:35:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/srclient/viewclientdetails.php on line 58

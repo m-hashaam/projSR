@@ -1,0 +1,260 @@
+@font-face {
+	font-family: "Flaticon3";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon3-"]:before, [class*=" flaticon3-"]:before,
+[class^="flaticon3-"]:after, [class*=" flaticon3-"]:after {
+	font-family: Flaticon3;
+    font-style: normal;
+}.flaticon3-bag-of-flour:before {
+     content: "\e000";
+ }
+.flaticon3-bakery4:before {
+    content: "\e001";
+}
+.flaticon3-bathroom23:before {
+    content: "\e002";
+}
+.flaticon3-beauty12:before {
+    content: "\e003";
+}
+.flaticon3-beauty6:before {
+    content: "\e004";
+}
+.flaticon3-beauty9:before {
+    content: "\e005";
+}
+.flaticon3-bottle24:before {
+    content: "\e006";
+}
+.flaticon3-bottle44:before {
+    content: "\e007";
+}
+.flaticon3-bottles7:before {
+    content: "\e008";
+}
+.flaticon3-bread14:before {
+    content: "\e009";
+}
+.flaticon3-bug21:before {
+    content: "\e00a";
+}
+.flaticon3-cake26:before {
+    content: "\e00b";
+}
+.flaticon3-cakes3:before {
+    content: "\e00c";
+}
+.flaticon3-candies3:before {
+    content: "\e00d";
+}
+.flaticon3-candy15:before {
+    content: "\e00e";
+}
+.flaticon3-celebration19:before {
+    content: "\e00f";
+}
+.flaticon3-cheese12:before {
+    content: "\e010";
+}
+.flaticon3-cheese4:before {
+    content: "\e011";
+}
+.flaticon3-chocolate5:before {
+    content: "\e012";
+}
+.flaticon3-cleaning2:before {
+    content: "\e013";
+}
+.flaticon3-college1:before {
+    content: "\e014";
+}
+.flaticon3-condiments:before {
+    content: "\e015";
+}
+.flaticon3-cook16:before {
+    content: "\e016";
+}
+.flaticon3-cookies1:before {
+    content: "\e017";
+}
+.flaticon3-cooking15:before {
+    content: "\e018";
+}
+.flaticon3-cosmetics:before {
+    content: "\e019";
+}
+.flaticon3-cow2:before {
+    content: "\e01a";
+}
+.flaticon3-cracker2:before {
+    content: "\e01b";
+}
+.flaticon3-cutlery6:before {
+    content: "\e01c";
+}
+.flaticon3-dessert10:before {
+    content: "\e01d";
+}
+.flaticon3-dessert20:before {
+    content: "\e01e";
+}
+.flaticon3-dessert4:before {
+    content: "\e01f";
+}
+.flaticon3-drink113:before {
+    content: "\e020";
+}
+.flaticon3-drink156:before {
+    content: "\e021";
+}
+.flaticon3-drink169:before {
+    content: "\e022";
+}
+.flaticon3-eyebrow:before {
+    content: "\e023";
+}
+.flaticon3-finger3:before {
+    content: "\e024";
+}
+.flaticon3-fries2:before {
+    content: "\e025";
+}
+.flaticon3-gift86:before {
+    content: "\e026";
+}
+.flaticon3-gin:before {
+    content: "\e027";
+}
+.flaticon3-glamour4:before {
+    content: "\e028";
+}
+.flaticon3-glove10:before {
+    content: "\e029";
+}
+.flaticon3-glue:before {
+    content: "\e02a";
+}
+.flaticon3-hair63:before {
+    content: "\e02b";
+}
+.flaticon3-halloween282:before {
+    content: "\e02c";
+}
+.flaticon3-healthy-food6:before {
+    content: "\e02d";
+}
+.flaticon3-healthy3:before {
+    content: "\e02e";
+}
+.flaticon3-healthy8:before {
+    content: "\e02f";
+}
+.flaticon3-home4:before {
+    content: "\e030";
+}
+.flaticon3-ice51:before {
+    content: "\e031";
+}
+.flaticon3-ice52:before {
+    content: "\e032";
+}
+.flaticon3-ice92:before {
+    content: "\e033";
+}
+.flaticon3-interface1:before {
+    content: "\e034";
+}
+.flaticon3-jar20:before {
+    content: "\e035";
+}
+.flaticon3-kitchen5:before {
+    content: "\e036";
+}
+.flaticon3-laundry7:before {
+    content: "\e037";
+}
+.flaticon3-liquid5:before {
+    content: "\e038";
+}
+.flaticon3-machines2:before {
+    content: "\e039";
+}
+.flaticon3-make:before {
+    content: "\e03a";
+}
+.flaticon3-margarine:before {
+    content: "\e03b";
+}
+.flaticon3-mascara:before {
+    content: "\e03c";
+}
+.flaticon3-mexican2:before {
+    content: "\e03d";
+}
+.flaticon3-mexican8:before {
+    content: "\e03e";
+}
+.flaticon3-nachos:before {
+    content: "\e03f";
+}
+.flaticon3-olive1:before {
+    content: "\e040";
+}
+.flaticon3-open-can:before {
+    content: "\e041";
+}
+.flaticon3-plussign15:before {
+    content: "\e042";
+}
+.flaticon3-refresh12:before {
+    content: "\e043";
+}
+.flaticon3-rock8:before {
+    content: "\e044";
+}
+.flaticon3-sauce:before {
+    content: "\e045";
+}
+.flaticon3-soda8:before {
+    content: "\e046";
+}
+.flaticon3-spoons7:before {
+    content: "\e047";
+}
+.flaticon3-summer4:before {
+    content: "\e048";
+}
+.flaticon3-sweet36:before {
+    content: "\e049";
+}
+.flaticon3-sweet39:before {
+    content: "\e04a";
+}
+.flaticon3-sweet52:before {
+    content: "\e04b";
+}
+.flaticon3-tissues:before {
+    content: "\e04c";
+}
+.flaticon3-toothpaste1:before {
+    content: "\e04d";
+}
+.flaticon3-utensil:before {
+    content: "\e04e";
+}
+.flaticon3-walk16:before {
+    content: "\e04f";
+}
+.flaticon3-weightlifter3:before {
+    content: "\e050";
+}
+.flaticon3-wiping5:before {
+    content: "\e051";
+}

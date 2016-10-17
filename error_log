@@ -1,0 +1,334 @@
+[06-Apr-2016 11:08:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/compaignbuilder.php on line 18
+[06-Apr-2016 11:47:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/changeproduct.php on line 18
+[08-Apr-2016 03:35:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/company.php on line 18
+[15-Apr-2016 05:55:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/demandmap.php on line 18
+[16-Apr-2016 22:25:45 UTC] PHP Fatal error:  Call to undefined function printMainPage() in /home/socialwa/public_html/portal/main.php on line 184
+[18-Apr-2016 00:22:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/main.php on line 179
+[18-Apr-2016 00:29:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/socialwa/public_html/portal/modals/personas.php on line 53
+[18-Apr-2016 00:29:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/socialwa/public_html/portal/modals/personas.php on line 54
+[19-Apr-2016 12:41:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/socialwa/public_html/portal/demandmap.php on line 18
+[25-Apr-2016 09:39:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'socialwa_portal'@'localhost' (using password: YES) in /home/sweetreferralsce/public_html/portal/database/db.php on line 13
+[25-Apr-2016 09:39:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 30
+[25-Apr-2016 09:40:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'socialwa_portal'@'localhost' (using password: YES) in /home/sweetreferralsce/public_html/portal/database/db.php on line 13
+[25-Apr-2016 09:40:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 30
+[25-Apr-2016 09:41:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'socialwa_portal'@'localhost' (using password: YES) in /home/sweetreferralsce/public_html/portal/database/db.php on line 13
+[25-Apr-2016 09:41:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 30
+[29-Apr-2016 05:52:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/reports.php on line 18
+[13-Jun-2016 16:42:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[13-Jun-2016 19:29:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 18
+[13-Jun-2016 20:39:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[13-Jun-2016 20:39:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[13-Jun-2016 20:39:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[13-Jun-2016 20:39:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[13-Jun-2016 20:39:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 03:56:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:12:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:14:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:15:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:15:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:15:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:15:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:17:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:17:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:18:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 05:19:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 13
+[14-Jun-2016 05:20:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 07:05:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[14-Jun-2016 11:28:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 18
+[14-Jun-2016 21:39:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_engagement.php on line 18
+[14-Jun-2016 21:58:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_loyalty.php on line 18
+[14-Jun-2016 22:50:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience.php on line 18
+[14-Jun-2016 22:50:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience.php on line 18
+[14-Jun-2016 22:50:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience.php on line 18
+[14-Jun-2016 22:50:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience.php on line 18
+[15-Jun-2016 02:47:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 231
+[15-Jun-2016 02:48:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 232
+[15-Jun-2016 02:49:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 232
+[15-Jun-2016 05:53:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[15-Jun-2016 05:54:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[17-Jun-2016 12:22:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[17-Jun-2016 16:34:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[30-Jun-2016 22:49:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[30-Jun-2016 23:04:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[30-Jun-2016 23:59:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[30-Jun-2016 23:59:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[01-Jul-2016 00:06:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[01-Jul-2016 00:08:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[01-Jul-2016 03:12:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[01-Jul-2016 04:40:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/header.php on line 11
+[01-Jul-2016 04:43:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/inc/sidebar.php on line 27
+[01-Jul-2016 06:16:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_brand.php on line 18
+[01-Jul-2016 07:50:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_loyalty.php on line 18
+[01-Jul-2016 07:50:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_persona.php on line 18
+[01-Jul-2016 08:15:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 18
+[01-Jul-2016 08:55:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_persona.php on line 18
+[01-Jul-2016 08:57:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_brand.php on line 18
+[01-Jul-2016 08:57:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_brand.php on line 18
+[11-Jul-2016 06:51:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[26-Jul-2016 05:14:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[26-Jul-2016 05:33:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 18
+[26-Jul-2016 05:35:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 13
+[28-Jul-2016 06:20:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[29-Jul-2016 09:50:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/rep_kpi.php:183) in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 268
+[29-Jul-2016 09:53:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 18
+[29-Jul-2016 09:55:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/rep_kpi.php:183) in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 269
+[29-Jul-2016 12:48:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience2.php on line 296
+[01-Aug-2016 06:19:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 19
+[01-Aug-2016 11:21:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[01-Aug-2016 12:41:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience2.php on line 19
+[01-Aug-2016 19:57:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[01-Aug-2016 20:12:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 364
+[02-Aug-2016 04:53:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 466
+[02-Aug-2016 05:10:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 468
+[02-Aug-2016 05:34:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 483
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 05:38:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 494
+[02-Aug-2016 08:43:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 541
+[02-Aug-2016 13:22:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[03-Aug-2016 06:19:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[03-Aug-2016 06:56:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 19
+[07-Aug-2016 09:30:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[07-Aug-2016 12:15:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sweetreferralsce/public_html/portal/users.php on line 291
+[07-Aug-2016 12:15:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/users.php on line 292
+[07-Aug-2016 13:47:17 UTC] PHP Fatal error:  Class 'Login' not found in /home/sweetreferralsce/public_html/portal/index.php on line 6
+[07-Aug-2016 13:48:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 106
+[07-Aug-2016 13:49:40 UTC] PHP Parse error:  syntax error, unexpected ''<!DOCTYPE html>' (T_ENCAPSED_AND_WHITESPACE) in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 346
+[07-Aug-2016 22:28:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[08-Aug-2016 01:51:04 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 537
+[08-Aug-2016 01:52:16 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 537
+[08-Aug-2016 01:53:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 539
+[08-Aug-2016 04:14:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 23
+[08-Aug-2016 05:46:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[08-Aug-2016 10:21:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 23
+[09-Aug-2016 05:27:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/demandmap.php on line 23
+[09-Aug-2016 05:27:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[09-Aug-2016 07:34:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_engagement.php on line 19
+[09-Aug-2016 11:15:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 643
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 649
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 655
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 661
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 667
+[09-Aug-2016 11:25:44 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 673
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:26:13 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 589
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:32:43 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 593
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 11:34:24 UTC] PHP Warning:  Division by zero in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 597
+[09-Aug-2016 12:04:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_brand.php on line 19
+[09-Aug-2016 12:04:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 18
+[10-Aug-2016 14:43:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 18
+[11-Aug-2016 11:01:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[23-Aug-2016 10:24:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[23-Aug-2016 10:30:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/products.php on line 23
+[23-Aug-2016 10:30:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/products.php on line 23
+[23-Aug-2016 13:33:26 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/sweetreferralsce/public_html/portal/rep_fbcb.php on line 5
+[23-Aug-2016 13:33:26 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/sweetreferralsce/public_html/portal/rep_fbcb.php on line 5
+[23-Aug-2016 13:33:26 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sweetreferralsce/public_html/portal/rep_fbcb.php on line 5
+[24-Aug-2016 08:57:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[25-Aug-2016 08:56:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[26-Aug-2016 09:16:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[26-Aug-2016 10:58:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[26-Aug-2016 10:58:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[26-Aug-2016 10:58:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[26-Aug-2016 10:58:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[26-Aug-2016 10:59:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_facebook.php on line 18
+[29-Aug-2016 10:41:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[29-Aug-2016 10:41:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[29-Aug-2016 10:41:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[29-Aug-2016 10:41:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[29-Aug-2016 10:42:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[29-Aug-2016 14:36:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[30-Aug-2016 07:47:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[30-Aug-2016 09:39:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/faq.php on line 18
+[31-Aug-2016 10:12:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 65
+[31-Aug-2016 10:13:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/authentication/login.php on line 65
+[01-Sep-2016 08:46:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[01-Sep-2016 12:01:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 18
+[01-Sep-2016 18:06:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/edit.php on line 18
+[07-Sep-2016 05:21:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_audience2.php on line 19
+[07-Sep-2016 05:21:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_persona.php on line 19
+[07-Sep-2016 05:21:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_brand.php on line 19
+[07-Sep-2016 05:21:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_engagement.php on line 19
+[07-Sep-2016 07:18:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 19
+[30-Sep-2016 08:14:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 19
+[30-Sep-2016 08:50:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_overview.php on line 18
+[30-Sep-2016 09:02:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[01-Oct-2016 09:04:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[01-Oct-2016 18:42:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[02-Oct-2016 00:19:44 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 403
+[02-Oct-2016 00:21:32 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 403
+[02-Oct-2016 00:24:09 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 403
+[02-Oct-2016 00:26:27 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 403
+[02-Oct-2016 19:09:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[02-Oct-2016 19:10:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/demandmap.php on line 23
+[02-Oct-2016 19:18:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[03-Oct-2016 08:20:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[03-Oct-2016 09:00:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[03-Oct-2016 09:21:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[03-Oct-2016 12:09:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[03-Oct-2016 15:27:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[03-Oct-2016 18:45:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[04-Oct-2016 05:34:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[04-Oct-2016 07:47:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[04-Oct-2016 13:27:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[04-Oct-2016 15:43:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[04-Oct-2016 17:00:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[05-Oct-2016 07:34:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[05-Oct-2016 07:34:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[05-Oct-2016 07:34:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[05-Oct-2016 07:34:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[06-Oct-2016 10:59:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/products.php on line 23
+[07-Oct-2016 10:02:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[07-Oct-2016 13:37:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[07-Oct-2016 14:14:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_kpi.php on line 19
+[07-Oct-2016 21:36:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[07-Oct-2016 21:39:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[09-Oct-2016 21:26:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[10-Oct-2016 10:45:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[10-Oct-2016 11:17:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[10-Oct-2016 19:41:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[10-Oct-2016 21:24:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 443
+[10-Oct-2016 21:25:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 444
+[10-Oct-2016 22:05:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[11-Oct-2016 05:57:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[11-Oct-2016 06:06:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[11-Oct-2016 11:10:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[11-Oct-2016 18:24:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[12-Oct-2016 16:43:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[13-Oct-2016 06:37:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[13-Oct-2016 07:00:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[13-Oct-2016 14:06:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[13-Oct-2016 16:31:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 09:38:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 09:42:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 12:23:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 13:31:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 15:53:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 16:10:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 16:11:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[14-Oct-2016 21:54:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[15-Oct-2016 08:18:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[15-Oct-2016 08:18:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/changeproduct.php on line 22
+[15-Oct-2016 18:45:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[16-Oct-2016 11:20:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something1.php on line 18
+[16-Oct-2016 20:13:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[17-Oct-2016 05:50:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18
+[17-Oct-2016 09:22:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/sweetreferralsce/public_html/portal/rep_something2.php on line 18

@@ -1,0 +1,294 @@
+#sidebar-wrapper{
+	border-top-right-radius:5px !important;
+}
+
+.navbar-inverse{
+	border-radius: 0;
+}
+
+.container{
+	width:100%;
+}
+
+.popover{
+    z-index: 50 !important;
+	width: 250px !important; // Max Width of the popover (depending on the container!)
+}
+
+div.growlUI {
+	background: url(../assets/tick.png) no-repeat 10px 10px 
+	}
+div.growlUI h1, div.growlUI h2 {
+	font-size: 1.2em !important;
+	color: white; 
+	padding: 5px 5px 5px 10px; 
+	text-align: left
+}
+
+.row btn{
+	margin-top:5px;
+}
+
+.labels{
+	
+	font-size: 1.2em !important;
+}
+
+.breadcrumb > li + li:before {
+	color:  rgba(0,0,0,0.6);
+	content: "/ ";
+	
+	padding: 0 5px;
+}
+
+.breadcrumb{
+	background-color: rgba(255,255,255,0.7) !important;
+	
+}
+
+.shadow-box{
+	
+	border: 1px solid rgba(0,0,0,0.1);  
+	-moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); 
+}
+
+
+.form-signin
+{
+	max-width: 330px;
+	padding: 15px;
+	margin: 100px auto;
+	background-color: #f7f7f7;
+	border: 1px solid rgba(0,0,0,0.1);  
+	-moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); 
+} 
+
+body {
+   background:#eee !important;
+}
+
+.bundle_labels{
+	color:rgba(0,0,0,0.65);
+	margin-left: auto;
+    margin-right: auto;
+	padding-left: 20%;
+}
+
+.bundle_headings{
+	color:rgba(0,0,0,0.65);
+	margin-left: auto;
+    margin-right: auto;
+	padding-left: 15%;
+}
+
+
+.bundle_inputs{
+	width:60%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.display_inline{
+	display:inline;
+}
+
+.bundle_inputs2{
+	width:60%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.morewidth {
+    /* new custom width */
+    width: 130% !important;
+}
+
+.autocenter{
+	margin-left: 28% !important; 
+}
+
+.header{
+ 
+  padding-right: 20px;
+    
+}
+
+.table_custom{
+
+	border: 10px solid rgba(0,0,0,0.1); 
+	max-width: 1000px;
+	
+	
+}
+
+fieldset.prov_fieldset {
+    border: 1px groove #ddd !important;
+	/* width:41%; */
+	width: auto;
+	
+	border-color: #f8f8f8 !important;
+	background-color: #f7f7f7;
+	border-radius: 10px;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+/*     -webkit-box-shadow:  0px 0px 0px 0px #000;
+            box-shadow:  0px 0px 0px 0px #000;
+	-moz-box-shadow: 0px 0px 0px 0px #000; */
+}
+
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+	/* width:41%; */
+	width: initial;
+	border-color: #f8f8f8 !important;
+	background-color: #f7f7f7;
+	border-radius: 10px;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+/*     -webkit-box-shadow:  0px 0px 0px 0px #000;
+            box-shadow:  0px 0px 0px 0px #000;
+	-moz-box-shadow: 0px 0px 0px 0px #000; */
+}
+
+.select_custom{
+	padding:0 10px;	
+}
+
+legend.scheduler-border {
+    font-size: 1.2em !important;
+    /* font-weight: bold !important; */
+    text-align: center !important;
+	width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+	border: 1px groove #ddd !important;
+	border-bottom:none;
+	border-color: #B8E3B8!important;
+	background-color: #B8E3B8;
+	 border-radius: 7px;
+
+}
+
+.center{
+	margin-left: auto ;
+    margin-right: auto; 
+	/* margin: 0% 10% 0% 10%; */
+	/* vertical-align: middle; */
+	/* padding-left: 300px; */
+}
+
+
+/* input[type=text], input[type=password] {
+      /* font-size:14px; *
+      border:0.7px solid #ccc;
+      background: whitemore;
+     /*  padding: 4px 6px;
+      line-height: 20px;
+      height: 20px;
+      width: 160px;
+      *
+	  border-radius: 4px;
+      
+} */
+
+input[type=text]:focus, input[type=password]:focus{
+    
+      border-color:#5cb85c;
+      -moz-box-shadow: 0px 0px 2px #5cb85c;
+      -webkit-box-shadow: 0px 0px 2px #5cb85c;
+      box-shadow: 0px 0px 2px #5cb85c;
+}
+
+input[type=text]:hover, input[type=password]:hover{
+  border-color:#5cb85c;
+      -moz-box-shadow: 0px 0px 8px #5cb85c;
+      -webkit-box-shadow: 0px 0px 8px #5cb85c;
+      box-shadow: 0px 0px 8px #5cb85c;
+	  
+}
+
+.hhr {
+  
+  /* border-color: #FF4000 -moz-use-text-color #FF4000;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0; */
+  border:0; 
+    height:4px; 
+    background:url("http://columna.crifst.ro/sites/columna.crifst.ro/files/separator5.png") 0 0; 
+	background-repeat: no-repeat;
+	background-position: center; 
+
+}
+
+.left_div{
+    width:50%;
+    float:left;	  
+ text-align: center; 
+}
+.cc_div{
+    width:100%;	  
+ text-align: center; 
+}
+
+.right_div{
+    width:50%;
+    float:right;	  
+ text-align: center; 
+}
+
+.right_div_new{
+    width:50%;
+    float:right;	   
+}
+
+.my_table_padding{
+ padding: 1px 1px 1px 1px !important;
+
+}
+
+select:focus, select:hover {
+	border-color:#5cb85c;
+      -moz-box-shadow: 0px 0px 8px #5cb85c;
+      -webkit-box-shadow: 0px 0px 8px #5cb85c;
+      box-shadow: 0px 0px 8px #5cb85c;
+      /* color:5cb85c; */
+      /* background:black; */
+}
+
+option:not(:checked) { 
+    background-color: white; 
+    color:#000;
+}
+
+
+
+/* 
+textarea:focus, input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: rgba(13, 189, 183, 0.8);
+  /* We don't have the LESS .box-shadow function in plain CSS 
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(13, 189, 183, 0.6));
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(13, 189, 183, 0.6));
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(13, 189, 183, 0.6));
+  outline: 0;
+  outline: thin dotted \9; /* IE6-9 
+}
+
+ */

@@ -1,0 +1,101 @@
+/*!
+ * Start Bootstrap - Simple Sidebar HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Toggle Styles */
+
+#rightsidebarwrapper {
+    padding-right: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#rightsidebarwrapper.toggled {
+    padding-right: 380px;
+}
+
+#sidebar-rightsidebarwrapper {
+    z-index: 1000;
+    position: fixed;
+    right: 380px;
+    width: 0;
+    height: 100%;
+    margin-right: -380px;
+    overflow-y: auto;
+    background: #fff;
+     top:51px;
+    padding-left: 20px !important;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#rightsidebarwrapper.toggled #sidebar-rightsidebarwrapper {
+    width: 380px;
+}
+
+#page-content-rightsidebarwrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+#rightsidebarwrapper.toggled #page-content-rightsidebarwrapper {
+    position: absolute;
+    margin-left: -380px;
+}
+
+#rightsidebarwrapper.toggled #sidebar-button {
+    
+    right:360px;
+}
+
+#sidebar-button{
+	width: 20px;
+    z-index: 1000;
+    position: fixed;
+    right: 0px;
+    width: 20px;
+    height: 100%;
+    /* margin-right: -380px; */
+    overflow-y: auto;
+    background: url(http://portal.sweetreferrals.com/assets/larrow.png) no-repeat;
+    background-position: 0% 46%;
+    background-size: contain;
+    background-color: rgba(34, 34, 34, 0.16);
+	 -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.sidebarheads{
+    background: #222222;
+    color: white;
+    text-align: center;
+    position: relative;
+    padding-top: 1px;
+    padding-bottom: 12px;
+}
+
+.sidebarrightcontent{
+    text-align: center;
+    padding: 10px;
+}
+
+.sidebarrightloading{
+    text-align: center;
+    margin-top: 15%;
+}
+.hidemyclass{
+    display:none !important; 
+}
+
+#sidebar-button:hover{
+    background-color: rgba(34, 34, 34, 0.36);
+}

@@ -1,0 +1,117 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_923ea1da7a022ac8de524d08096df31a.eot");
+  src: url("./fontcustom_923ea1da7a022ac8de524d08096df31a.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_923ea1da7a022ac8de524d08096df31a.woff") format("woff"),
+       url("./fontcustom_923ea1da7a022ac8de524d08096df31a.ttf") format("truetype"),
+       url("./fontcustom_923ea1da7a022ac8de524d08096df31a.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_923ea1da7a022ac8de524d08096df31a.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-Pets:before,
+.icon-airfreshener:before,
+.icon-beef:before,
+.icon-blush:before,
+.icon-catowner:before,
+.icon-cereal:before,
+.icon-chicken:before,
+.icon-chips:before,
+.icon-cleaner:before,
+.icon-cleaningenthusiast:before,
+.icon-dogowner:before,
+.icon-eyebrowpencil:before,
+.icon-eyeliner:before,
+.icon-fish:before,
+.icon-fisherowner:before,
+.icon-fruit:before,
+.icon-guacamole--1-:before,
+.icon-hotsauce:before,
+.icon-ketchup:before,
+.icon-lactoseintolerant:before,
+.icon-laundry:before,
+.icon-lipstick:before,
+.icon-makeup:before,
+.icon-mascara:before,
+.icon-mayonaise:before,
+.icon-mustard:before,
+.icon-nailcare:before,
+.icon-pastry:before,
+.icon-pork:before,
+.icon-runner:before,
+.icon-salt:before,
+.icon-sauce:before,
+.icon-swimmer:before,
+.icon-tennis:before,
+.icon-vegeterian:before,
+.icon-vitamins:before,
+.icon-volleyball:before,
+.icon-wipes:before,
+.icon-yoga--1-:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-Pets:before { content: "\f100"; }
+.icon-airfreshener:before { content: "\f101"; }
+.icon-beef:before { content: "\f102"; }
+.icon-blush:before { content: "\f103"; }
+.icon-catowner:before { content: "\f104"; }
+.icon-cereal:before { content: "\f105"; }
+.icon-chicken:before { content: "\f106"; }
+.icon-chips:before { content: "\f107"; }
+.icon-cleaner:before { content: "\f108"; }
+.icon-cleaningenthusiast:before { content: "\f109"; }
+.icon-dogowner:before { content: "\f10a"; }
+.icon-eyebrowpencil:before { content: "\f10b"; }
+.icon-eyeliner:before { content: "\f10c"; }
+.icon-fish:before { content: "\f10d"; }
+.icon-fisherowner:before { content: "\f10e"; }
+.icon-fruit:before { content: "\f10f"; }
+.icon-guacamole--1-:before { content: "\f110"; }
+.icon-hotsauce:before { content: "\f111"; }
+.icon-ketchup:before { content: "\f112"; }
+.icon-lactoseintolerant:before { content: "\f113"; }
+.icon-laundry:before { content: "\f114"; }
+.icon-lipstick:before { content: "\f115"; }
+.icon-makeup:before { content: "\f116"; }
+.icon-mascara:before { content: "\f117"; }
+.icon-mayonaise:before { content: "\f118"; }
+.icon-mustard:before { content: "\f119"; }
+.icon-nailcare:before { content: "\f11a"; }
+.icon-pastry:before { content: "\f11b"; }
+.icon-pork:before { content: "\f11c"; }
+.icon-runner:before { content: "\f11d"; }
+.icon-salt:before { content: "\f11e"; }
+.icon-sauce:before { content: "\f11f"; }
+.icon-swimmer:before { content: "\f120"; }
+.icon-tennis:before { content: "\f121"; }
+.icon-vegeterian:before { content: "\f122"; }
+.icon-vitamins:before { content: "\f123"; }
+.icon-volleyball:before { content: "\f124"; }
+.icon-wipes:before { content: "\f125"; }
+.icon-yoga--1-:before { content: "\f126"; }

@@ -1,0 +1,237 @@
+[28-Mar-2016 07:56:10 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open <table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table> for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('<table style="w...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('<table style="w...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(54): PHPExcel_Reader_HTML->load('<table style="w...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 07:58:14 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open KPI.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('KPI.html')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('KPI.html', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(43): PHPExcel_Reader_HTML->load('KPI.html')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 07:58:56 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open http://portal.sweetreferrals.com/export/export/kpi.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('http://portal.s...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('http://portal.s...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(43): PHPExcel_Reader_HTML->load('http://portal.s...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:00:18 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open http://portal.sweetreferrals.com/export/export/kpi.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('http://portal.s...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('http://portal.s...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(43): PHPExcel_Reader_HTML->load('http://portal.s...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:02:39 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open kpi.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('kpi.html')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('kpi.html', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(42): PHPExcel_Reader_HTML->load('kpi.html')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:03:37 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open http://portal.sweetreferrals.com/export/export/kpi.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('http://portal.s...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('http://portal.s...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(42): PHPExcel_Reader_HTML->load('http://portal.s...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:04:45 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open http://portal.sweetreferrals.com/export/export/KPI.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('http://portal.s...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('http://portal.s...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(42): PHPExcel_Reader_HTML->load('http://portal.s...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:04:47 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open http://portal.sweetreferrals.com/export/export/KPI.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('http://portal.s...')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('http://portal.s...', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(42): PHPExcel_Reader_HTML->load('http://portal.s...')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:06:05 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ../../KPI.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('../../KPI.html')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('../../KPI.html', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/home.php(42): PHPExcel_Reader_HTML->load('../../KPI.html')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:33:00 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open perf.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('perf.html')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('perf.html', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/performance.php(42): PHPExcel_Reader_HTML->load('perf.html')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[28-Mar-2016 08:34:13 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open perf.html for reading! File does not exist.' in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php:196
+Stack trace:
+#0 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(410): PHPExcel_Reader_Abstract->_openFile('perf.html')
+#1 /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/HTML.php(141): PHPExcel_Reader_HTML->loadIntoExisting('perf.html', Object(PHPExcel))
+#2 /home/socialwa/public_html/portal/export/export/performance.php(42): PHPExcel_Reader_HTML->load('perf.html')
+#3 {main}
+  thrown in /home/socialwa/public_html/portal/export/export/PHPExcel/Reader/Abstract.php on line 196
+[15-Jun-2016 01:59:38 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 /home/sweetreferralsce/public_html/portal/export/export/home.php(63): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#2 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[15-Jun-2016 01:59:42 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 /home/sweetreferralsce/public_html/portal/export/export/home.php(63): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#2 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  DOMDocument::loadHTMLFile(): htmlParseStartTag: invalid element name in comm.html, line: 1 in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php on line 427
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 51
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 52
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 53
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 55
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 58
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 59
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 60
+[15-Jun-2016 04:14:10 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Reader/HTML.php:427) in /home/sweetreferralsce/public_html/portal/export/export/comm.php on line 61
+[01-Aug-2016 15:49:20 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/home.php(65): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[01-Aug-2016 15:51:19 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 /home/sweetreferralsce/public_html/portal/export/export/home.php(55): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#2 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[01-Aug-2016 15:55:05 Europe/London] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/sweetreferralsce/public_html/portal/export/export/home.php on line 34
+[01-Aug-2016 15:58:50 Europe/London] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/sweetreferralsce/public_html/portal/export/export/home.php on line 33
+[01-Aug-2016 16:00:08 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 /home/sweetreferralsce/public_html/portal/export/export/home.php(65): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#2 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[01-Aug-2016 16:01:04 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'PDF Rendering library has not been defined.' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php:56
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#1 /home/sweetreferralsce/public_html/portal/export/export/home.php(65): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#2 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php on line 56
+[01-Aug-2016 16:02:27 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/tcPDF.php:35
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/tcPDF.php on line 35
+[01-Aug-2016 16:03:06 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 06:56:38 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 06:56:53 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 06:56:57 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 06:57:03 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 06:57:49 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 07:02:34 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Unable to load PDF Rendering library' in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php:34
+Stack trace:
+#0 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Autoloader.php(82): require()
+#1 [internal function]: PHPExcel_Autoloader::Load('PHPExcel_Writer...')
+#2 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF.php(70): spl_autoload_call('PHPExcel_Writer...')
+#3 /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/IOFactory.php(141): PHPExcel_Writer_PDF->__construct(Object(PHPExcel))
+#4 /home/sweetreferralsce/public_html/portal/export/export/home.php(44): PHPExcel_IOFactory::createWriter(Object(PHPExcel), 'PDF')
+#5 {main}
+  thrown in /home/sweetreferralsce/public_html/portal/export/export/PHPExcel/Writer/PDF/DomPDF.php on line 34
+[02-Aug-2016 17:46:07 Europe/London] PHP Notice:  Undefined variable: _SESSION in /home/sweetreferralsce/public_html/portal/export/export/home.php on line 53
+[02-Aug-2016 17:46:07 Europe/London] PHP Notice:  Undefined variable: _SESSION in /home/sweetreferralsce/public_html/portal/export/export/home.php on line 54
+[02-Aug-2016 17:46:07 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/export/export/home.php on line 64
+[02-Aug-2016 20:07:48 Europe/London] PHP Notice:  Undefined variable: week in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 87
+[02-Aug-2016 20:07:48 Europe/London] PHP Notice:  Undefined variable: week in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 94
+[02-Aug-2016 20:07:48 Europe/London] PHP Notice:  Undefined variable: week in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 101
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 144
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 145
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 146
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 148
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 151
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 152
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 153
+[02-Aug-2016 20:07:48 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/person.php:87) in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 154
+[02-Aug-2016 20:08:25 Europe/London] PHP Fatal error:  Unsupported operand types in /home/sweetreferralsce/public_html/portal/export/export/person.php on line 120
+[02-Aug-2016 20:29:16 Europe/London] PHP Notice:  Undefined variable: result in /home/sweetreferralsce/public_html/portal/export/export/referral.php on line 68
+[02-Aug-2016 20:29:16 Europe/London] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/sweetreferralsce/public_html/portal/export/export/referral.php on line 68
+[08-Aug-2016 04:29:25 Europe/London] PHP Notice:  Undefined index: rep_date in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 54
+[08-Aug-2016 04:31:48 Europe/London] PHP Notice:  Undefined index: rep_date in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 54
+[08-Aug-2016 04:31:48 Europe/London] PHP Notice:  Undefined variable: idate in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 59
+[08-Aug-2016 04:31:48 Europe/London] PHP Notice:  Undefined variable: edate in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 59
+[08-Aug-2016 04:34:25 Europe/London] PHP Notice:  Undefined variable: pidate in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 126
+[08-Aug-2016 04:34:25 Europe/London] PHP Notice:  Undefined variable: pedate in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 126
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 161
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 162
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 163
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 165
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 168
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 169
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 170
+[08-Aug-2016 04:34:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php:126) in /home/sweetreferralsce/public_html/portal/export/export/rep_fb_statistics.php on line 171

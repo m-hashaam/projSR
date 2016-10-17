@@ -1,0 +1,784 @@
+@font-face {
+    font-family: "Flaticon1";
+    src: url("flaticon.eot");
+    src: url("flaticon.eot#iefix") format("embedded-opentype"),
+    url("flaticon.woff") format("woff"),
+    url("flaticon.ttf") format("truetype"),
+    url("flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {
+    font-family: flaticon1;
+    font-style: normal;
+}
+.flaticon1-amazon:before {
+     content: "\e000";
+ }
+.flaticon1-apple54:before {
+    content: "\e001";
+}
+.flaticon1-baby108:before {
+    content: "\e002";
+}
+.flaticon1-baby11:before {
+    content: "\e003";
+}
+.flaticon1-baby133:before {
+    content: "\e004";
+}
+.flaticon1-baby137:before {
+    content: "\e005";
+}
+.flaticon1-baby146:before {
+    content: "\e006";
+}
+.flaticon1-baby4:before {
+    content: "\e007";
+}
+.flaticon1-baked:before {
+    content: "\e008";
+}
+.flaticon1-bakery10:before {
+    content: "\e009";
+}
+.flaticon1-baking:before {
+    content: "\e00a";
+}
+.flaticon1-ball37:before {
+    content: "\e00b";
+}
+.flaticon1-barbecue12:before {
+    content: "\e00c";
+}
+.flaticon1-barbecue5:before {
+    content: "\e00d";
+}
+.flaticon1-basket42:before {
+    content: "\e00e";
+}
+.flaticon1-bathroom5:before {
+    content: "\e00f";
+}
+.flaticon1-beauty7:before {
+    content: "\e010";
+}
+.flaticon1-bicycle14:before {
+    content: "\e011";
+}
+.flaticon1-bicycle28:before {
+    content: "\e012";
+}
+.flaticon1-bicycle4:before {
+    content: "\e013";
+}
+.flaticon1-black315:before {
+    content: "\e014";
+}
+.flaticon1-blogging1:before {
+    content: "\e015";
+}
+.flaticon1-blush:before {
+    content: "\e016";
+}
+.flaticon1-bottle48:before {
+    content: "\e017";
+}
+.flaticon1-bowl17:before {
+    content: "\e018";
+}
+.flaticon1-boy36:before {
+    content: "\e019";
+}
+.flaticon1-brush18:before {
+    content: "\e01a";
+}
+.flaticon1-brushes5:before {
+    content: "\e01b";
+}
+.flaticon1-building104:before {
+    content: "\e01c";
+}
+.flaticon1-bunch3:before {
+    content: "\e01d";
+}
+.flaticon1-cancel47:before {
+    content: "\e01e";
+}
+.flaticon1-candy19:before {
+    content: "\e01f";
+}
+.flaticon1-capsicum:before {
+    content: "\e020";
+}
+.flaticon1-car189:before {
+    content: "\e021";
+}
+.flaticon1-cat34:before {
+    content: "\e022";
+}
+.flaticon1-cat37:before {
+    content: "\e023";
+}
+.flaticon1-cat44:before {
+    content: "\e024";
+}
+.flaticon1-cereal2:before {
+    content: "\e025";
+}
+.flaticon1-champagne6:before {
+    content: "\e026";
+}
+.flaticon1-cheese1:before {
+    content: "\e027";
+}
+.flaticon1-cherries1:before {
+    content: "\e028";
+}
+.flaticon1-chicken20:before {
+    content: "\e029";
+}
+.flaticon1-child3:before {
+    content: "\e02a";
+}
+.flaticon1-child6:before {
+    content: "\e02b";
+}
+.flaticon1-chili1:before {
+    content: "\e02c";
+}
+.flaticon1-chili2:before {
+    content: "\e02d";
+}
+.flaticon1-chilis:before {
+    content: "\e02e";
+}
+.flaticon1-chinese-food6:before {
+    content: "\e02f";
+}
+.flaticon1-chinese13:before {
+    content: "\e030";
+}
+.flaticon1-christmas150:before {
+    content: "\e031";
+}
+.flaticon1-christmas288:before {
+    content: "\e032";
+}
+.flaticon1-circular82:before {
+    content: "\e033";
+}
+.flaticon1-claw1:before {
+    content: "\e034";
+}
+.flaticon1-clean9:before {
+    content: "\e035";
+}
+.flaticon1-cleaner:before {
+    content: "\e036";
+}
+.flaticon1-cleaning19:before {
+    content: "\e037";
+}
+.flaticon1-closed40:before {
+    content: "\e038";
+}
+.flaticon1-coffee-mug:before {
+    content: "\e039";
+}
+.flaticon1-coffee116:before {
+    content: "\e03a";
+}
+.flaticon1-coffee124:before {
+    content: "\e03b";
+}
+.flaticon1-coffee128:before {
+    content: "\e03c";
+}
+.flaticon1-coffee23:before {
+    content: "\e03d";
+}
+.flaticon1-coke:before {
+    content: "\e03e";
+}
+.flaticon1-condiment:before {
+    content: "\e03f";
+}
+.flaticon1-cook17:before {
+    content: "\e040";
+}
+.flaticon1-cooker4:before {
+    content: "\e041";
+}
+.flaticon1-cookies2:before {
+    content: "\e042";
+}
+.flaticon1-couple50:before {
+    content: "\e043";
+}
+.flaticon1-crawling:before {
+    content: "\e044";
+}
+.flaticon1-cup61:before {
+    content: "\e045";
+}
+.flaticon1-cupcake4:before {
+    content: "\e046";
+}
+.flaticon1-curve21:before {
+    content: "\e047";
+}
+.flaticon1-cutlery22:before {
+    content: "\e048";
+}
+.flaticon1-cutlery23:before {
+    content: "\e049";
+}
+.flaticon1-delivery50:before {
+    content: "\e04a";
+}
+.flaticon1-dinner:before {
+    content: "\e04b";
+}
+.flaticon1-diving2:before {
+    content: "\e04c";
+}
+.flaticon1-dog56:before {
+    content: "\e04d";
+}
+.flaticon1-dog65:before {
+    content: "\e04e";
+}
+.flaticon1-donut4:before {
+    content: "\e04f";
+}
+.flaticon1-drink110:before {
+    content: "\e050";
+}
+.flaticon1-drink120:before {
+    content: "\e051";
+}
+.flaticon1-drink150:before {
+    content: "\e052";
+}
+.flaticon1-drink160:before {
+    content: "\e053";
+}
+.flaticon1-drink31:before {
+    content: "\e054";
+}
+.flaticon1-drink72:before {
+    content: "\e055";
+}
+.flaticon1-drink73:before {
+    content: "\e056";
+}
+.flaticon1-drink81:before {
+    content: "\e057";
+}
+.flaticon1-dumbbell26:before {
+    content: "\e058";
+}
+.flaticon1-electric51:before {
+    content: "\e059";
+}
+.flaticon1-email5:before {
+    content: "\e05a";
+}
+.flaticon1-energetic:before {
+    content: "\e05b";
+}
+.flaticon1-eye24:before {
+    content: "\e05c";
+}
+.flaticon1-eye53:before {
+    content: "\e05d";
+}
+.flaticon1-eyeliner:before {
+    content: "\e05e";
+}
+.flaticon1-eyes3:before {
+    content: "\e05f";
+}
+.flaticon1-face14:before {
+    content: "\e060";
+}
+.flaticon1-facebook2:before {
+    content: "\e061";
+}
+.flaticon1-father2:before {
+    content: "\e062";
+}
+.flaticon1-feeding1:before {
+    content: "\e063";
+}
+.flaticon1-female179:before {
+    content: "\e064";
+}
+.flaticon1-female184:before {
+    content: "\e065";
+}
+.flaticon1-female205:before {
+    content: "\e066";
+}
+.flaticon1-female96:before {
+    content: "\e067";
+}
+.flaticon1-firewood1:before {
+    content: "\e068";
+}
+.flaticon1-fish16:before {
+    content: "\e069";
+}
+.flaticon1-fish52:before {
+    content: "\e06a";
+}
+.flaticon1-flowers12:before {
+    content: "\e06b";
+}
+.flaticon1-flying:before {
+    content: "\e06c";
+}
+.flaticon1-folded12:before {
+    content: "\e06d";
+}
+.flaticon1-football:before {
+    content: "\e06e";
+}
+.flaticon1-football168:before {
+    content: "\e06f";
+}
+.flaticon1-football171:before {
+    content: "\e070";
+}
+.flaticon1-football28:before {
+    content: "\e071";
+}
+.flaticon1-fragrance:before {
+    content: "\e072";
+}
+.flaticon1-fruit62:before {
+    content: "\e073";
+}
+.flaticon1-fruit68:before {
+    content: "\e074";
+}
+.flaticon1-fruit74:before {
+    content: "\e075";
+}
+.flaticon1-fruit88:before {
+    content: "\e076";
+}
+.flaticon1-fruits:before {
+    content: "\e077";
+}
+.flaticon1-fruits1:before {
+    content: "\e078";
+}
+.flaticon1-gel:before {
+    content: "\e079";
+}
+.flaticon1-gift85:before {
+    content: "\e07a";
+}
+.flaticon1-girly:before {
+    content: "\e07b";
+}
+.flaticon1-glass35:before {
+    content: "\e07c";
+}
+.flaticon1-glasses2:before {
+    content: "\e07d";
+}
+.flaticon1-golf4:before {
+    content: "\e07e";
+}
+.flaticon1-grass:before {
+    content: "\e07f";
+}
+.flaticon1-green3:before {
+    content: "\e080";
+}
+.flaticon1-guacamole:before {
+    content: "\e081";
+}
+.flaticon1-guacamole1:before {
+    content: "\e082";
+}
+.flaticon1-gymnast39:before {
+    content: "\e083";
+}
+.flaticon1-hair73:before {
+    content: "\e084";
+}
+.flaticon1-hairsalon4:before {
+    content: "\e085";
+}
+.flaticon1-halloween232:before {
+    content: "\e086";
+}
+.flaticon1-hammer31:before {
+    content: "\e087";
+}
+.flaticon1-handshake1:before {
+    content: "\e088";
+}
+.flaticon1-hanging1:before {
+    content: "\e089";
+}
+.flaticon1-healthy-food4:before {
+    content: "\e08a";
+}
+.flaticon1-heart183:before {
+    content: "\e08b";
+}
+.flaticon1-heart340:before {
+    content: "\e08c";
+}
+.flaticon1-home168:before {
+    content: "\e08d";
+}
+.flaticon1-hot50:before {
+    content: "\e08e";
+}
+.flaticon1-ice-cream9:before {
+    content: "\e08f";
+}
+.flaticon1-ice5:before {
+    content: "\e090";
+}
+.flaticon1-ice95:before {
+    content: "\e091";
+}
+.flaticon1-icecream4:before {
+    content: "\e092";
+}
+.flaticon1-inspiration:before {
+    content: "\e093";
+}
+.flaticon1-instagram19:before {
+    content: "\e094";
+}
+.flaticon1-iron5:before {
+    content: "\e095";
+}
+.flaticon1-knife35:before {
+    content: "\e096";
+}
+.flaticon1-lipstick:before {
+    content: "\e097";
+}
+.flaticon1-lipstick1:before {
+    content: "\e098";
+}
+.flaticon1-liquid2:before {
+    content: "\e099";
+}
+.flaticon1-lollipop6:before {
+    content: "\e09a";
+}
+.flaticon1-love116:before {
+    content: "\e09b";
+}
+.flaticon1-love68:before {
+    content: "\e09c";
+}
+.flaticon1-makeup2:before {
+    content: "\e09d";
+}
+.flaticon1-makeup4:before {
+    content: "\e09e";
+}
+.flaticon1-male190:before {
+    content: "\e09f";
+}
+.flaticon1-man32:before {
+    content: "\e0a0";
+}
+.flaticon1-man451:before {
+    content: "\e0a1";
+}
+.flaticon1-marker20:before {
+    content: "\e0a2";
+}
+.flaticon1-marketing8:before {
+    content: "\e0a3";
+}
+.flaticon1-mascara1:before {
+    content: "\e0a4";
+}
+.flaticon1-medical2:before {
+    content: "\e0a5";
+}
+.flaticon1-mother17:before {
+    content: "\e0a6";
+}
+.flaticon1-motorbike13:before {
+    content: "\e0a7";
+}
+.flaticon1-moustaches:before {
+    content: "\e0a8";
+}
+.flaticon1-mower2:before {
+    content: "\e0a9";
+}
+.flaticon1-mushroom15:before {
+    content: "\e0aa";
+}
+.flaticon1-nail2:before {
+    content: "\e0ab";
+}
+.flaticon1-navigate7:before {
+    content: "\e0ac";
+}
+.flaticon1-objective:before {
+    content: "\e0ad";
+}
+.flaticon1-office26:before {
+    content: "\e0ae";
+}
+.flaticon1-olives:before {
+    content: "\e0af";
+}
+.flaticon1-onion3:before {
+    content: "\e0b0";
+}
+.flaticon1-parent:before {
+    content: "\e0b1";
+}
+.flaticon1-parents:before {
+    content: "\e0b2";
+}
+.flaticon1-peas:before {
+    content: "\e0b3";
+}
+.flaticon1-pepper6:before {
+    content: "\e0b4";
+}
+.flaticon1-perfume12:before {
+    content: "\e0b5";
+}
+.flaticon1-perfume5:before {
+    content: "\e0b6";
+}
+.flaticon1-person201:before {
+    content: "\e0b7";
+}
+.flaticon1-pet22:before {
+    content: "\e0b8";
+}
+.flaticon1-pets17:before {
+    content: "\e0b9";
+}
+.flaticon1-picnic8:before {
+    content: "\e0ba";
+}
+.flaticon1-popcorn6:before {
+    content: "\e0bb";
+}
+.flaticon1-portable6:before {
+    content: "\e0bc";
+}
+.flaticon1-portrait9:before {
+    content: "\e0bd";
+}
+.flaticon1-pregnant1:before {
+    content: "\e0be";
+}
+.flaticon1-protein1:before {
+    content: "\e0bf";
+}
+.flaticon1-proteins:before {
+    content: "\e0c0";
+}
+.flaticon1-razor:before {
+    content: "\e0c1";
+}
+.flaticon1-real11:before {
+    content: "\e0c2";
+}
+.flaticon1-regular2:before {
+    content: "\e0c3";
+}
+.flaticon1-rugby3:before {
+    content: "\e0c4";
+}
+.flaticon1-runer:before {
+    content: "\e0c5";
+}
+.flaticon1-running31:before {
+    content: "\e0c6";
+}
+.flaticon1-salt3:before {
+    content: "\e0c7";
+}
+.flaticon1-sauce1:before {
+    content: "\e0c8";
+}
+.flaticon1-sauce2:before {
+    content: "\e0c9";
+}
+.flaticon1-short37:before {
+    content: "\e0ca";
+}
+.flaticon1-shower15:before {
+    content: "\e0cb";
+}
+.flaticon1-sleeping:before {
+    content: "\e0cc";
+}
+.flaticon1-sleepness:before {
+    content: "\e0cd";
+}
+.flaticon1-small163:before {
+    content: "\e0ce";
+}
+.flaticon1-snacks1:before {
+    content: "\e0cf";
+}
+.flaticon1-soap:before {
+    content: "\e0d0";
+}
+.flaticon1-soccer43:before {
+    content: "\e0d1";
+}
+.flaticon1-soda7:before {
+    content: "\e0d2";
+}
+.flaticon1-spa18:before {
+    content: "\e0d3";
+}
+.flaticon1-spaghetti3:before {
+    content: "\e0d4";
+}
+.flaticon1-speech-bubble7:before {
+    content: "\e0d5";
+}
+.flaticon1-spray2:before {
+    content: "\e0d6";
+}
+.flaticon1-steak:before {
+    content: "\e0d7";
+}
+.flaticon1-sun18:before {
+    content: "\e0d8";
+}
+.flaticon1-sweep3:before {
+    content: "\e0d9";
+}
+.flaticon1-sweet1:before {
+    content: "\e0da";
+}
+.flaticon1-sweet35:before {
+    content: "\e0db";
+}
+.flaticon1-system1:before {
+    content: "\e0dc";
+}
+.flaticon1-taco:before {
+    content: "\e0dd";
+}
+.flaticon1-tea24:before {
+    content: "\e0de";
+}
+.flaticon1-tea7:before {
+    content: "\e0df";
+}
+.flaticon1-technology42:before {
+    content: "\e0e0";
+}
+.flaticon1-thin22:before {
+    content: "\e0e1";
+}
+.flaticon1-toilet-paper:before {
+    content: "\e0e2";
+}
+.flaticon1-tomato:before {
+    content: "\e0e3";
+}
+.flaticon1-totopos:before {
+    content: "\e0e4";
+}
+.flaticon1-tripadvisor:before {
+    content: "\e0e5";
+}
+.flaticon1-turkey-leg1:before {
+    content: "\e0e6";
+}
+.flaticon1-twitter1:before {
+    content: "\e0e7";
+}
+.flaticon1-upper20:before {
+    content: "\e0e8";
+}
+.flaticon1-users6:before {
+    content: "\e0e9";
+}
+.flaticon1-vegetable27:before {
+    content: "\e0ea";
+}
+.flaticon1-verification5:before {
+    content: "\e0eb";
+}
+.flaticon1-view24:before {
+    content: "\e0ec";
+}
+.flaticon1-vintage8:before {
+    content: "\e0ed";
+}
+.flaticon1-walking12:before {
+    content: "\e0ee";
+}
+.flaticon1-wash6:before {
+    content: "\e0ef";
+}
+.flaticon1-washing11:before {
+    content: "\e0f0";
+}
+.flaticon1-washing41:before {
+    content: "\e0f1";
+}
+.flaticon1-washingmachine:before {
+    content: "\e0f2";
+}
+.flaticon1-wedding1:before {
+    content: "\e0f3";
+}
+.flaticon1-weightlifting4:before {
+    content: "\e0f4";
+}
+.flaticon1-wheat13:before {
+    content: "\e0f5";
+}
+.flaticon1-wheat14:before {
+    content: "\e0f6";
+}
+.flaticon1-windows11:before {
+    content: "\e0f7";
+}
+.flaticon1-wiping16:before {
+    content: "\e0f8";
+}
+.flaticon1-wizard3:before {
+    content: "\e0f9";
+}
+.flaticon1-woman39:before {
+    content: "\e0fa";
+}
+.flaticon1-woman68:before {
+    content: "\e0fb";
+}
+.flaticon1-woman79:before {
+    content: "\e0fc";
+}
+.flaticon1-yelp:before {
+    content: "\e0fd";
+}
+.flaticon1-yoga13:before {
+    content: "\e0fe";
+}
+.flaticon1-young13:before {
+    content: "\e0ff";
+}
